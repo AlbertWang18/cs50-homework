@@ -1,5 +1,8 @@
 # problem set 1
+
 画一个hash组成的金字塔
 
-Greedy Algorithms计算找钱所需的最少硬笔数
+Greedy Algorithms计算找钱所需的最少硬币数
+
+Luhn’s Algorithm银行卡的检验方法
  
